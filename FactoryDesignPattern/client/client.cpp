@@ -1,4 +1,5 @@
 // The creation logic for the vehicle is loosely couple with the client
+// Factory Design Pattern is a "Creational Design Pattern"
 
 #include <iostream>
 #include "vehicleFactory.hpp"
