@@ -42,6 +42,6 @@ $(BUILD_DIR) $(LIB_DIR):
 	mkdir -p $@
 
 clean:
-	rm -rf $(BUILD_DIR)
+	rm -rf clientExec $(BUILD_DIR)
 
 .PHONY: all clean
